@@ -487,12 +487,214 @@ iconpara{
 
             /* section 7 Start */
 
+.sec7-main{
+    width: 1221px;
+    height: 682px;
+    background-color: #1f57c3;
+    border-radius: 10px;
 
+}
+.sec7-bgimage{
+    width: 611px;
+    height: 682px;
+    position: relative;
+    left: -12px;
+    /* background-image: url(./Assests/Images/sec7.jpg); */
+    
+}
+.sec7-content{
+    color: white;
+    width: 611px;
+    height: 682px;
+   
 
+}
+.sec7-bgimage img{
+    border-radius: 10px;
 
+}
+.sec7-content .h21{
+    font-size: 64px;
+    
 
-
-
-
+}
+.hrsec7{
+    width: 100%;
+    color: white;
+    margin-top: 180px;
+}
+.btnsec7{
+    width: 186px;
+    height: 40px;
+    color: #1f57c3;
+    border: none;
+    border-radius: 15px;
+    font-size: 16px;
+    background-color: white;   
+}
 
             /* section 6 End */
+
+
+
+.sec8{
+    width: 1221px;
+    height: 651px;
+    
+    
+}
+.card-main8{
+    color: white;
+
+}
+.card1sec8{
+    width: 576px;
+    height: 456px;
+    background-color: #13544e;
+    border-radius: 15px;
+}
+.card2sec8{
+    width: 576px;
+    height: 456px;
+    background-color: #bc5118;
+    border-radius: 15px;
+}
+.hr8{
+    width: 90%;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.sec8p1{
+    font: 16px;
+    
+}
+.sec8res{
+    position: relative;
+    padding-top: 20px;
+}
+.mainheading{
+    font-size: 64px;
+    padding-top: 60px;
+   
+
+}
+
+
+
+
+.sec9-main{
+    width: 1250px;
+    height: 211px;
+    margin-top: 150px;
+    background-color: #f9f9f9;
+    position: relative;
+    border-radius: 15px;
+    
+}
+
+.btn9{
+    width: 135px;
+    height: 40px;
+    border-radius: 10px; 
+    background-color: white;
+    color: #108a29;
+    border-color: #108a29;
+    font-weight: 400;
+    
+}
+.img9{
+        position: absolute;
+        left: 900px;
+        top: 18px;
+
+}
+.card-text{
+    margin-top: 10px;
+    color: #67676c;
+}
+
+            /* section 10 Start */
+
+.sec10-main{
+    width: 1349px;
+    height: 701px;
+}
+.list-sec10 li{
+    list-style: none;
+    color:#67676c ;
+
+}
+.list-sec10 li:hover{
+    color:#108a00 ;
+    font-size: 40px;
+}
+.ligreen span{
+    color: #108a00;
+}
+.sec10ul{
+    font-weight: 500;
+}
+
+            /* footer */
+
+.footer-main{
+    width: 1349px;
+    height: 691px;
+    background-color: #181818;
+    color: white;
+
+
+}
+.footer-content li{
+    list-style: none;
+    line-height: 2.2;
+    
+}
+.footer2{
+    width: 1221px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+.footericon li{
+    list-style: none;
+}
+.footericon {
+    display: flex;
+    align-items: center;
+}
+.footericon2 li{
+    /* width: 200px;
+    height: 40px; */
+    list-style: none;
+    
+}
+.footericon2 {
+    display: flex;
+    align-items: center;
+}
+.hrft{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ftlast li{
+    list-style: none;
+    display: flex;
+    
+}
+.ftlast ul{
+    display: flex;
+    gap: 20px;
+    
+}
+.ftlast{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
