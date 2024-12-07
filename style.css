@@ -327,15 +327,21 @@
     width: 100%;
     height: 581px;
     
+    
 }
 .sec4-content{
     width: 60%;
     height: 581px;
     background-color: #13544e;
+    border-radius: 10px;
 }
 .sec4-img{
     width: 40%;
     height: 581px;
+  
+}
+.sec4-img img{
+    border-radius: 10px;
     
 }
 .sec4-content h3{
@@ -370,3 +376,123 @@
             /* section 4  End */
 
 
+.sec5-maincontainer{
+    width: 1250px;
+    height: 652px;
+    background-color: #108a00;
+    background-image: url(./Assests/Images/sec5.jpg);
+    background-size: cover;
+    position: relative;
+    color: white;
+}
+.sec5-content1 h1 span{
+    font-size: 64px;
+
+
+}
+.card-main{
+    width: 1200px;
+    height: 165px;
+    
+}
+.subcard{
+    width: 1121px;
+    display: flex;
+    gap: 30px;
+}
+.cards1{
+    background-color:#108a00 ;
+    width: 365px;
+    height: 165px;
+    border-radius: 10px;
+}
+.cards2{
+    background-color:#108a00 ;
+    width: 365px;
+    height: 165px;
+    border-radius: 10px;
+}
+.cards3{
+    
+        background-color:#108a00 ;
+        width: 365px;
+        height: 165px;
+        border-radius: 10px;
+    }
+
+            /* section 5 End */
+
+            /* section 6 Start */
+
+
+.sec6-main{
+    width: 1221px;
+    height: 650px;
+    background-color: #108a00;
+    position: relative;
+    border-radius: 10px;
+  
+}
+.content-main{
+    position: absolute;
+    left: 810px;
+    top: 310px;
+    color: white;
+
+
+}
+.child1{
+    background-color: #f9f9f9;
+    position: relative;
+    width: 730px;
+    height: 650px ; 
+    margin-left: -15px;
+    margin-bottom: -20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.bg-img{
+    display: flex;
+    justify-content: end;
+    position: absolute;
+    left: 170px;
+    top: 20px;
+}
+.sec-6icon1{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    
+}
+
+.sec-6icon2{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.sec6-1h1{
+    font-size: 64px;
+
+}
+.icon{
+    display: flex;
+    align-items: center;  
+}
+iconpara{
+    color: #67677a;
+}
+
+
+            /* section 6 End */
+
+            /* section 7 Start */
+
+
+
+
+
+
+
+
+
+            /* section 6 End */
